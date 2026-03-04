@@ -1,6 +1,7 @@
 """
 Assignment 01 — FizzBuzz
 
+ print("hallo")
 Print numbers from 1 to 100.
 - If divisible by 3 => print "Fizz"
 - If divisible by 5 => print "Buzz"
